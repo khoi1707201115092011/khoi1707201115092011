@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Nhắn tin qua fb
 - 😄 Pronouns: ...
-- ⚡ Fun fact: tui bị mát mát
+- ⚡ Fun fact: tui bị mát
 
 <!---
 khoi1707201115092011/khoi1707201115092011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
